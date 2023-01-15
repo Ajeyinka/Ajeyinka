@@ -1,11 +1,4 @@
 - 👋 Hi, I’m @Ajeyinka
-- 👀 I’m interested in ...Front end develoment
-- 🌱 I’m currently learning ..Javascript.
-- 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ...Ajeyinka12@gmail.com
-- 
-
-<!---
-Ajeyinka/Ajeyinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Highly motivated front-end developer with 2 years of experience in building responsive, user-friendly websites and web applications.
+Proficient in HTML, CSS, JavaScript, and jQuery.
+Strong ability to troubleshoot and debug code, with a keen eye for design and user experience.
