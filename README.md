@@ -20,4 +20,4 @@ I strongly believe in the value of continuous learning and improvement. That's w
 🌐 Connect with Me
 LinkedIn: Olayinka Ajelolu
 Email: ajeyinka12@gmail.com
-Portfolio: designerolayinka.com
+Portfolio: designeryinka.com
